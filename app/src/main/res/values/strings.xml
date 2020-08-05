@@ -13,4 +13,8 @@
     <string name="headSplash">Hello There!</string>
     <string name="btnText">Get Started</string>
     <string name="registerBtn">Register</string>
+    <string name="todo">TODO</string>
+    <string name="prompt_confirmPassword">Confirm Password</string>
+    <string name="signUpBtn">Sign Up</string>
+    <string name="sign_up">Sign Up</string>
 </resources>
