@@ -9,7 +9,7 @@ import android.view.View;
 import android.widget.Button;
 
 import com.airbnb.lottie.LottieAnimationView;
-import com.example.hiv_ebeta.ui.login.LoginActivity;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void openLogin(){
-        Intent intent = new Intent(this, LoginActivity.class);
+        Intent intent = new Intent(this, LoginAndRegisterPage.class);
         startActivity(intent);
     }
 
